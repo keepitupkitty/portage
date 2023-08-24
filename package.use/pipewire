@@ -1,0 +1,2 @@
+media-sound/pulseaudio -daemon
+media-video/pipewire sound-server dbus pipewire-alsa gsettings
